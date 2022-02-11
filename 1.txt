@@ -1,2 +1,4 @@
 Line 1 for master. 
 This is again a changed master. 
+Changed in branch "second".
+

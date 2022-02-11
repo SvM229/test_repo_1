@@ -1,2 +1,3 @@
 line 2 for master. 
 This is again a change in master. 
+Changed in branch "second".
