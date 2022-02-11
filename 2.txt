@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 line 2 for master. 
 This is again a change in master. 
+=======
+line 2 for master. Changed in branch 1. 
+>>>>>>> fe51372 (changed in branch 1)
